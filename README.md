@@ -114,4 +114,4 @@ This project is intended strictly for **educational purposes**. Misuse of stegan
 
 ## Author
 
-Undergraduate project developed at **PES University**.
+Undergraduate project developed at **PES University** by **Pranav, Nikhil, Pradhyun**.
